@@ -1,0 +1,14 @@
+{
+    "name": "monkey689/coreseek",
+    "description": "one demo for coreseek",
+    "homepage": "https://github.com/monkey689/coreseek_demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ran Wang",
+            "email": "915981876@qq.com",
+            "homepage": "https://github.com/monkey689/coreseek_demo"
+        }
+    ]
+}
