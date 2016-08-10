@@ -1,0 +1,3 @@
+[Wed Aug 10 09:25:07.961 2016] [ 3244] accepting connections
+[Wed Aug 10 09:26:51.192 2016] [ 3244] caught SIGTERM, shutting down
+[Wed Aug 10 09:26:51.221 2016] [ 3244] shutdown complete

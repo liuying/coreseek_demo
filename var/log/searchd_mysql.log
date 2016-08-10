@@ -1,0 +1,106 @@
+[Wed Aug 10 09:12:54.987 2016] [ 6168] accepting connections
+[Wed Aug 10 09:40:21.063 2016] [ 6168] shutdown complete
+[Wed Aug 10 09:59:22.108 2016] [ 1764] binlog: replaying log ./binlog.001
+[Wed Aug 10 09:59:22.109 2016] [ 1764] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 09:59:22.109 2016] [ 1764] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 09:59:22.109 2016] [ 1764] binlog: finished replaying total 1 in 0.000 sec
+[Wed Aug 10 09:59:22.110 2016] [ 1764] accepting connections
+[Wed Aug 10 09:59:42.806 2016] [ 1764] shutdown complete
+[Wed Aug 10 10:13:56.334 2016] [ 8216] binlog: replaying log ./binlog.001
+[Wed Aug 10 10:13:56.334 2016] [ 8216] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:13:56.334 2016] [ 8216] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:13:56.334 2016] [ 8216] binlog: replaying log ./binlog.001
+[Wed Aug 10 10:13:56.334 2016] [ 8216] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:13:56.334 2016] [ 8216] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:13:56.334 2016] [ 8216] binlog: finished replaying total 2 in 0.000 sec
+[Wed Aug 10 10:13:56.336 2016] [ 8216] accepting connections
+[Wed Aug 10 10:41:06.056 2016] [ 8216] FATAL: INTERNAL ERROR: unknown matching mode (mode=5)
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: replaying log ./binlog.001
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: replaying log ./binlog.001
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: replaying log ./binlog.001
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:45:30.378 2016] [11152] binlog: finished replaying total 3 in 0.000 sec
+[Wed Aug 10 10:45:30.381 2016] [11152] accepting connections
+[Wed Aug 10 10:45:34.458 2016] [11152] shutdown complete
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: replaying log ./binlog.001
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: replaying log ./binlog.001
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: replaying log ./binlog.001
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: replaying log ./binlog.002
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 10:45:38.207 2016] [ 6560] binlog: finished replaying total 4 in 0.000 sec
+[Wed Aug 10 10:45:38.209 2016] [ 6560] accepting connections
+[Wed Aug 10 11:12:03.004 2016] [ 6560] shutdown complete
+[Wed Aug 10 13:59:19.834 2016] [ 3548] binlog: replaying log ./binlog.001
+[Wed Aug 10 13:59:19.834 2016] [ 3548] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 13:59:19.834 2016] [ 3548] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 13:59:19.834 2016] [ 3548] binlog: replaying log ./binlog.001
+[Wed Aug 10 13:59:19.834 2016] [ 3548] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 13:59:19.834 2016] [ 3548] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 13:59:19.835 2016] [ 3548] binlog: replaying log ./binlog.001
+[Wed Aug 10 13:59:19.835 2016] [ 3548] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 13:59:19.835 2016] [ 3548] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 13:59:19.835 2016] [ 3548] binlog: replaying log ./binlog.002
+[Wed Aug 10 13:59:19.835 2016] [ 3548] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 13:59:19.835 2016] [ 3548] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 13:59:19.835 2016] [ 3548] binlog: replaying log ./binlog.002
+[Wed Aug 10 13:59:19.836 2016] [ 3548] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 13:59:19.836 2016] [ 3548] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 13:59:19.836 2016] [ 3548] binlog: finished replaying total 5 in 0.002 sec
+[Wed Aug 10 13:59:19.841 2016] [ 3548] accepting connections
+[Wed Aug 10 14:24:23.135 2016] [ 3548] shutdown complete
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replaying log ./binlog.001
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replaying log ./binlog.001
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replaying log ./binlog.001
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replaying log ./binlog.002
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replaying log ./binlog.002
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replaying log ./binlog.002
+[Wed Aug 10 14:29:31.405 2016] [ 6948] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:29:31.406 2016] [ 6948] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:29:31.406 2016] [ 6948] binlog: finished replaying total 6 in 0.001 sec
+[Wed Aug 10 14:29:31.407 2016] [ 6948] accepting connections
+[Wed Aug 10 14:48:26.216 2016] [ 6948] shutdown complete
+[Wed Aug 10 14:59:27.674 2016] [ 3448] binlog: replaying log ./binlog.001
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replaying log ./binlog.001
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replaying log ./binlog.001
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: finished replaying ./binlog.001; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replaying log ./binlog.002
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replaying log ./binlog.002
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:59:27.675 2016] [ 3448] binlog: replaying log ./binlog.002
+[Wed Aug 10 14:59:27.676 2016] [ 3448] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:59:27.676 2016] [ 3448] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:59:27.676 2016] [ 3448] binlog: replaying log ./binlog.002
+[Wed Aug 10 14:59:27.676 2016] [ 3448] binlog: replay stats: 0 rows in 0 commits; 0 updates; 0 indexes
+[Wed Aug 10 14:59:27.676 2016] [ 3448] binlog: finished replaying ./binlog.002; 0.0 MB in 0.000 sec
+[Wed Aug 10 14:59:27.676 2016] [ 3448] binlog: finished replaying total 7 in 0.001 sec
+[Wed Aug 10 14:59:27.678 2016] [ 3448] accepting connections
