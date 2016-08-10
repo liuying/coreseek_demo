@@ -1,6 +1,7 @@
 {
     "name": "monkey689/coreseek",
     "description": "one demo for coreseek",
+    "version": "1.0.0",
     "homepage": "https://github.com/monkey689/coreseek_demo",
     "type": "library",
     "license": "MIT",
